@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+}
+
+#parallax {
+    background-image: url('sale.jpg');
+    height: 50vh;
+    background-size: relative;
+    background-attachment: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    clear: both;
+
+}
+#shortcut {
+    text-align: center;
+}
+.dtime {
+   font-size: 40px;
+   font-family: fantasy;
+   text-align: center;
+   margin-top: 70px;
+   color: red;
+   opacity: 0.9;
+    
+}
+#stime {
+    color: red;
+}
